@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/boynux/squid-exporter/types"
+	"github.com/konflux-ci/squid-exporter/types"
 )
 
 func TestReadFromSquid(t *testing.T) {

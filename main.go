@@ -16,8 +16,8 @@ import (
 	"github.com/prometheus/common/version"
 	"github.com/prometheus/exporter-toolkit/web"
 
-	"github.com/boynux/squid-exporter/collector"
-	"github.com/boynux/squid-exporter/config"
+	"github.com/konflux-ci/squid-exporter/collector"
+	"github.com/konflux-ci/squid-exporter/config"
 )
 
 func init() {

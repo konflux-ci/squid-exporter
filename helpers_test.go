@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/boynux/squid-exporter/config"
+	"github.com/konflux-ci/squid-exporter/config"
 )
 
 func TestCreatProxyHelper(t *testing.T) {
