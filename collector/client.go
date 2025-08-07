@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/boynux/squid-exporter/types"
+	"github.com/konflux-ci/squid-exporter/types"
 )
 
 // CacheObjectClient holds information about Squid manager.

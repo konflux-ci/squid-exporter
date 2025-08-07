@@ -1,4 +1,4 @@
-module github.com/boynux/squid-exporter
+module github.com/konflux-ci/squid-exporter
 
 go 1.20
 

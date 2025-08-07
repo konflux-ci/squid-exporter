@@ -7,7 +7,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/boynux/squid-exporter/config"
+	"github.com/konflux-ci/squid-exporter/config"
 )
 
 type descMap map[string]*prometheus.Desc

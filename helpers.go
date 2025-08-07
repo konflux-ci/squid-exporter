@@ -8,7 +8,7 @@ import (
 
 	proxyproto "github.com/pires/go-proxyproto"
 
-	"github.com/boynux/squid-exporter/config"
+	"github.com/konflux-ci/squid-exporter/config"
 )
 
 func createProxyHeader(cfg *config.Config) string {
